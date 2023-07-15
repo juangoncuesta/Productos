@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA89RWgkxCRECV8aciai+1tQAAAAACAAAAAAAQZgAAAAEAACAAAAAXkwFLCR+eS7RjpAfu07R2gjY+2MrwndPehDO1kK8wEgAAAAAOgAAAAAIAACAAAAAxh8JLdmPnLzhUXHduPNKQ2FdEjZWFqMfiobJ10xnH+4AAAADoVOsiUcrpK6OGi9iXd1ACrUs/GlH/72VwTHRgOf1ylY7WlnqKkojHSfYS9FxQsYvvzODETBrOK7t94p4UUMM3bRQtd6MhD8UJwzlrOxz+81FvYIKOBVR981W9O1RoD6vvc4RGtxG7SlwUCmRIAbkZeGeYrNV2a0RqlazNCOO1okAAAAC/FBdhMkIaeappkpBPGun59Q1WNuAsj96+bOYAnHMM9pbwPzJ1odW7RkmLLSXxDXBUblCQj9fw2L2o3V2kXKdU</EncryptedPassword>
+    <History>True|2023-07-15T08:59:13.4719569Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DevConnection">
+      <Value> Server=tcp:productoauto.database.windows.net,1433%3bInitial Catalog=dbproductos%3bPersist Security Info=False%3bUser ID=juanchomix%3bPassword=jcgc94112428202.%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

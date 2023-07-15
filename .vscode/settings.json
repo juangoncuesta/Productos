@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b96fb0d7-7b7e-481d-87c1-21541f9c9566/resourceGroups/juan/providers/Microsoft.Web/sites/productopruebaclient",
+    "appService.deploySubpath": "FEProductos\\dist\\feproductos"
+}
